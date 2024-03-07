@@ -2,4 +2,4 @@
 server/node_modules/
 client/node_modules/
 server/.env
-weather.sqlite3git 
+server/weather.sqlite3git 
